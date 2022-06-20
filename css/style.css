@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: oblique;
+}
+p{
+    color: white;
+}
+.modelocajas{
+    border: 5px yellowgreen solid;
+    width: 600px;
+    height: 200px;
+    padding: 20px;
+    background-image: url();
+}
